@@ -3,7 +3,7 @@
 
 # If you have purchased the premium API enter the key otherwise leave blank.
 # You can purchase a key from: http://xioax.com/host-blocker/
-api-key: ""
+api-key: "BEG9QTPfaV6SA8pn6snzNZhCSYEyOn"
 
 # Enable caching of API requests? If so specify time in hours to keep the cached file
 # When the api-cache-time is reached the cached file will be updated with the API server response.
